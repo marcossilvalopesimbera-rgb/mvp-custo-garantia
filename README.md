@@ -1,56 +1,21 @@
-# Marcos Silva Lopes
-
-**Industrial Operations & Data Science**  
-Jundiaí, SP · [LinkedIn](https://linkedin.com/in/) · [Email](mailto:)
-
 ---
 
-Sou gestor industrial com mais de 15 anos conectando chão de fábrica e estratégia — e nos últimos anos adicionei uma camada que muda tudo: a capacidade de transformar dados operacionais em decisões mais rápidas e mais precisas.
+## 👤 Sobre o autor
 
-Hoje lidero Engenharia de Processos, Manutenção e Qualidade numa empresa do grupo FEMSA, enquanto concluo a pós-graduação em **Data Science & Analytics na PUC-Rio** com projetos aplicados a dados reais de garantia e pós-venda.
+**Marcos Lopes Silva**  
+Gestor industrial e cientista de dados aplicado · Jundiaí, SP
 
----
+Tenho mais de 15 anos liderando operações industriais — Engenharia de Processos, Manutenção e Qualidade — em empresas de grande porte. Ao longo dessa trajetória desenvolvi uma convicção: as melhores decisões operacionais nascem quando gestão e dados falam a mesma língua.
 
-## O que eu faço na prática
+Este projeto é a expressão prática dessa convicção. Não parti de um dataset acadêmico genérico — parti de um problema real de pós-venda industrial, com suas inconsistências, sazonalidades e padrões de falha que só fazem sentido para quem conhece o contexto operacional por dentro.
 
-```
-Operações industriais  ──►  Dados  ──►  Decisão
-```
+**O que este projeto demonstra:**
+- Capacidade de formular perguntas de negócio antes de escolher o algoritmo
+- Domínio do ciclo completo: da base bruta ao insight acionável
+- Integração entre três MVPs como sistema, não como exercícios isolados
+- Aplicação de ML supervisionado, não-supervisionado e séries temporais em dados reais
 
-Não sou cientista de dados que aprendeu sobre fábricas lendo artigos.  
-Sou gestor industrial que aprendeu a programar porque os dados da operação pediam isso.
-
-Essa diferença importa: sei qual pergunta vale a pena responder antes de abrir o notebook.
-
----
-
-## Stack técnico
-
-| Área | Ferramentas |
-|---|---|
-| Linguagem | Python (Pandas, NumPy, Scikit-learn, XGBoost, Prophet) |
-| Machine Learning | Supervisionado, Não-supervisionado, Séries Temporais |
-| Visualização | Power BI, Matplotlib, Seaborn |
-| Gestão | Lean Manufacturing, OKRs, Governança de portfólio |
-
----
-
-## Projetos em destaque
-
-### 🔧 [MVP Custo de Garantia](https://github.com/marcossilvalopesimbera-rgb/mvp-custo-garantia)
-90.741 ordens de serviço reais · Previsão de custos · Segmentação de equipamentos · Classificação de reincidência  
-`Prophet` `XGBoost` `K-Means` `DBSCAN` `PCA` `Scikit-learn`
-
-> Projeto desenvolvido na PUC-Rio com dados reais de pós-venda industrial.  
-> Três MVPs integrados que cobrem desde previsão financeira até perfil de falha por equipamento.
-
----
-
-## Formação
-
-- **Pós-Graduação em Data Science & Analytics** — PUC-Rio *(em curso)*
-- Gestão Industrial Sênior — 15+ anos em operações, qualidade e manutenção
-
----
+> Pós-Graduação em Data Science & Analytics — PUC-Rio *(em curso)*  
+> [LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/marcossilvalopesimbera-rgb)
 
 *Aberto a conversas sobre projetos, colaborações e oportunidades que cruzem operações industriais e ciência de dados.*
